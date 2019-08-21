@@ -96,7 +96,7 @@ def autoNorm(dataSet):
 
 
 if __name__ == "__main__":
-    classifyperson()
+    #classifyperson()
     # datingClassTest()
     # group, labels = createDataSet()
     # result = classify0([0.5, 0.5], group, labels, 3)
